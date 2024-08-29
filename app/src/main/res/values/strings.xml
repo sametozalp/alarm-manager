@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlarmManager</string>
+
+    <string name="CHANNEL_IMPORTANT">IMPORTANT</string>
+    <string name="CHANNEL_DEFAULT">DEFAULT</string>
+
+</resources>
